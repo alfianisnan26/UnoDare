@@ -1,0 +1,18 @@
+UUUU        UUUU  NNNN       NNNN      OOOOOOOO
+UUUU        UUUU  NNNNN      NNNN   OOOOOOOOOOOOOO
+UUUU        UUUU  NNNNNN     NNNN  OOOOO      OOOOO
+UUUU        UUUU  NNNNNNN    NNNN  OOOO        OOOO
+UUUU        UUUU  NNNN NNN   NNNN  OOOO        OOOO
+UUUU        UUUU  NNNN  NNN  NNNN  OOOO        OOOO
+UUUU        UUUU  NNNN   NNN NNNN  OOOO        OOOO
+ UUUU      UUUU   NNNN    NNNNNNN  OOOOO      OOOOO
+  UUUUUUUUUUUU    NNNN     NNNNNN   OOOOOOOOOOOOOO
+     UUUUUU       NNNN      NNNNN      OOOOOOOO
+
+      ddddd     ddddd   ddddd    dddddd  dddd
+      dd  dd   dd   dd  dd  dd   dd      dddd
+      dd   dd  dd   dd  dd  dd   dd      dddd
+      dd   dd  ddddddd  ddddd    dddddd   dd
+      dd   dd  dd   dd  dd dd    dd       dd
+      dd  dd   dd   dd  dd  dd   dd       
+      ddddd    dd   dd  dd   dd  dddddd   dd

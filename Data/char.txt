@@ -1,0 +1,569 @@
+     0
+     0
+     0
+     0
+     0
+}
+  H  0
+  H  0
+  H  0
+     0
+  H  0
+}
+ H H 0
+ H H 0
+     0
+     0
+     0
+}
+  H H0
+  HHH0
+ H H 0
+HHH  0
+H H  0
+}
+ HHHH0
+H H  0
+ HHH 0
+  H H0
+HHHH 0
+}
+H   H0
+   H 0
+  H  0
+ H   0
+H   H0
+}
+ HHH 0
+H   H0
+ HHH 0
+H   H0
+ HHHH0
+}
+  H  0
+  H  0
+     0
+     0
+     0
+}
+   H 0
+  H  0
+  H  0
+  H  0
+   H 0
+}
+ H   0
+  H  0
+  H  0
+  H  0
+ H   0
+}
+ H H 0
+  H  0
+ H H 0
+     0
+     0
+}
+     0
+  H  0
+HHHHH0
+  H  0
+     0
+}
+     0
+     0
+     0
+  H  0
+ H   0
+}
+     0
+     0
+ HHH 0
+     0
+     0
+}
+     0
+     0
+     0
+     0
+ HH  0
+}
+    H0
+   H 0
+  H  0
+ H   0
+H    0
+}
+ HHH 0
+HH  H0
+H H H0
+H  HH0
+ HHH 0
+}
+  H  0
+  H  0
+  H  0
+  H  0
+  H  0
+}
+HHHHH0
+    H0
+HHHHH0
+H    0
+HHHHH0
+}
+HHHHH0
+    H0
+HHHHH0
+    H0
+HHHHH0
+}
+H   H0
+H   H0
+HHHHH0
+    H0
+    H0
+}
+HHHHH0
+H    0
+HHHHH0
+    H0
+HHHHH0
+}
+HHHHH0
+H    0
+HHHHH0
+H   H0
+HHHHH0
+}
+HHHHH0
+    H0
+    H0
+    H0
+    H0
+}
+HHHHH0
+H   H0
+HHHHH0
+H   H0
+HHHHH0
+}
+HHHHH0
+H   H0
+HHHHH0
+    H0
+HHHHH0
+}
+     0
+  H  0
+     0
+  H  0
+     0
+}
+     0
+  H  0
+     0
+  H  0
+ H   0
+}
+   H 0
+  H  0
+ H   0
+  H  0
+   H 0
+}
+     0
+ HHH 0
+     0
+ HHH 0
+     0
+}
+ H   0
+  H  0
+   H 0
+  H  0
+ H   0
+}
+ HHH 0
+H   H0
+   H 0
+     0
+  H  0
+}
+HHHHH0
+H   H0
+H HHH0
+H H H0
+H HHH0
+}
+ HHH 0
+H   H0
+HHHHH0
+H   H0
+H   H0
+}
+HHHH 0
+H   H0
+HHHH 0
+H   H0
+HHHH 0
+}
+ HHHH0
+H    0
+H    0
+H    0
+ HHHH0
+}
+HHHH 0
+H   H0
+H   H0
+H   H0
+HHHH 0
+}
+HHHHH0
+H    0
+HHHHH0
+H    0
+HHHHH0
+}
+HHHHH0
+H    0
+HHHHH0
+H    0
+H    0
+}
+ HHHH0
+H    0
+H  HH0
+H   H0
+ HHH 0
+}
+H   H0
+H   H0
+HHHHH0
+H   H0
+H   H0
+}
+  H  0
+  H  0
+  H  0
+  H  0
+  H  0
+}
+    H0
+    H0
+    H0
+H   H0
+ HHH 0
+}
+H   H0
+H HH 0
+HH   0
+H HH 0
+H   H0
+}
+H    0
+H    0
+H    0
+H    0
+HHHHH0
+}
+H   H0
+HH HH0
+H H H0
+H   H0
+H   H0
+}
+H   H0
+HH  H0
+H H H0
+H  HH0
+H   H0
+}
+ HHH 0
+H   H0
+H   H0
+H   H0
+ HHH 0
+}
+HHHH 0
+H   H0
+HHHH 0
+H    0
+H    0
+}
+ HHH 0
+H   H0
+H H H0
+H  HH0
+ HH H0
+}
+HHHH 0
+H   H0
+HHHH 0
+H  H 0
+H   H0
+}
+ HHHH0
+H    0
+ HHH 0
+    H0
+HHHH 0
+}
+HHHHH0
+  H  0
+  H  0
+  H  0
+  H  0
+}
+H   H0
+H   H0
+H   H0
+H   H0
+ HHH 0
+}
+H   H0
+H   H0
+H   H0
+ H H 0
+  H  0
+}
+H   H0
+H   H0
+H H H0
+HH HH0
+H   H0
+}
+H   H0
+ H H 0
+  H  0
+ H H 0
+H   H0
+}
+H   H0
+ H H 0
+  H  0
+  H  0
+  H  0
+}
+HHHHH0
+   H 0
+  H  0
+ H   0
+HHHHH0
+}
+  HH 0
+  H  0
+  H  0
+  H  0
+  HH 0
+}
+H    0
+ H   0
+  H  0
+   H 0
+    H0
+}
+ HH  0
+  H  0
+  H  0
+  H  0
+ HH  0
+}
+  H  0
+ H H 0
+H   H0
+     0
+     0
+}
+     0
+     0
+     0
+     0
+HHHHH0
+}
+ H   0
+  H  0
+     0
+     0
+     0
+}
+ HHH 0
+H   H0
+  HHH0
+ H  H0
+  HHH0
+}
+H    0
+H    0
+HHHH 0
+H   H0
+HHHH 0
+}
+     0
+     0
+ HHHH0
+H    0
+ HHHH0
+}
+    H0
+    H0
+ HHHH0
+H   H0
+ HHHH0
+}
+ HHH 0
+H   H0
+HHHHH0
+H    0
+ HHHH0
+}
+ HHHH0
+H    0
+HHHHH0
+H    0
+H    0
+}
+ HHH 0
+H   H0
+ HHHH0
+    H0
+ HHH 0
+}
+H    0
+H    0
+HHHH 0
+H   H0
+H   H0
+}
+  H  0
+     0
+  H  0
+  H  0
+  H  0
+}
+   H 0
+     0
+   H 0
+   H 0
+ HHH 0
+}
+H    0
+H    0
+H HH 0
+HH   0
+H HH 0
+}
+  H  0
+  H  0
+  H  0
+  H  0
+   H 0
+}
+     0
+     0
+ H H 0
+H H H0
+H H H0
+}
+     0
+     0
+ HHH 0
+H   H0
+H   H0
+}
+     0
+     0
+ HHH 0
+H   H0
+ HHH 0
+}
+     0
+ HHH 0
+ H  H0
+ HHH 0
+ H   0
+}
+     0
+ HHH 0
+H  H 0
+ HHH 0
+   H 0
+}
+     0
+     0
+  HH 0
+ H   0
+ H   0
+}
+ HHH 0
+H    0
+ HHH 0
+    H0
+ HHH 0
+}
+     0
+  H  0
+HHHHH0
+  H  0
+  HHH0
+}
+     0
+     0
+H   H0
+H   H0
+ HHHH0
+}
+     0
+     0
+H   H0
+ H H 0
+  H  0
+}
+     0
+     0
+H   H0
+H H H0
+ H H 0
+}
+     0
+     0
+HH HH0
+ HHH 0
+HH HH0
+}
+     0
+H   H0
+ HHHH0
+    H0
+ HHHH0
+}
+     0
+HHHH 0
+  H  0
+ H   0
+HHHH 0
+}
+   H 0
+  H  0
+ HH  0
+  H  0
+   H 0
+}
+  H  0
+  H  0
+  H  0
+  H  0
+  H  0
+}
+ H   0
+  H  0
+  HH 0
+  H  0
+ H   0
+}
+     0
+ H   0
+H H H0
+   H 0
+     0
