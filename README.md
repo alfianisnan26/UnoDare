@@ -6,7 +6,7 @@ Proyek Akhir Proglan UTS
 - Dibuat    	: Bulan Oktober 2019
 - Kelompok  	:
 	- Alfian Badrul Isnan
-	- Idham Ramadhito
+	- Idham Ramadito
 	- Ali Baghir
 
 ## Penjelasan Program
