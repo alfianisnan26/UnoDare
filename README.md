@@ -1,12 +1,13 @@
 # UnoDare!
 Proyek Akhir Proglan UTS
-- Jurusan   : Teknik Komputer
-- Instansi  : Universitas Indonesia
-- Dibuat    : Bulan Oktober 2019
-## Kelompok
-1. Alfian Badrul Isnan
-2. Idham Ramadhito
-3. Ali Baghir
+- Nama Proyek	: UnoDare!
+- Jurusan   	: Teknik Komputer
+- Instansi  	: Universitas Indonesia
+- Dibuat    	: Bulan Oktober 2019
+- Kelompok  	:
+	- Alfian Badrul Isnan
+	- Idham Ramadhito
+	- Ali Baghir
 
 ## Penjelasan Program
 [Uno](https://id.wikipedia.org/wiki/UNO_(permainan))Dare! adalah permainan kartu uno tetapi ada sedikit perubahaan dalam uno dare.
