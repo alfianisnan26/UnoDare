@@ -219,7 +219,9 @@ void cardSort(bool * boxState, int state) {
 	}
 }
 ```
+
 Contoh sortir kartu dengan perintah (state) CARD_SORT_BY_CHAR
+
 <img src="https://github.com/alfianisnan26/UnoDare/blob/master/Screenshoot/Undare4.png" width="300">
 
 #### Frontend.h
