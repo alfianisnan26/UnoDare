@@ -5,9 +5,9 @@ Proyek Akhir Proglan UTS
 - Instansi  	: Universitas Indonesia
 - Dibuat    	: Bulan Oktober 2019
 - Kelompok  	:
-	- Alfian Badrul Isnan
-	- Idham Ramadito
-	- Ali Baghir
+	- Alfian Badrul Isnan | 1806148643
+	- Idham Ramadito | 1806200293
+	- Ali Baghir | 1806200425
 
 ## Penjelasan Program
 [Uno](https://id.wikipedia.org/wiki/UNO_(permainan))Dare! adalah permainan kartu uno tetapi ada sedikit perubahaan dalam uno dare.
